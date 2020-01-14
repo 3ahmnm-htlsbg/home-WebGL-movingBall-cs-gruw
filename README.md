@@ -1,7 +1,7 @@
 # home-WebGL-movingBall-cs-gruw
 
 ### Project description: 
-Introduction/Project summary 
+A small project to learn how to generate and use random numbers and get items from an array aswell as to build a project in WebGL and publish it on GitHub. 
 
 ### Development platform:
 * Windows 10
@@ -13,11 +13,7 @@ Introduction/Project summary
 * Screenresolution: 960 x 600
 
 ### Visuals:
-
-
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+<a href="https://3ahmnm-htlsbg.github.io/home-WebGL-movingBall-cs-gruw/">WebGL Build for moving ball</a>
 
 ### Third party material: 
 * Sprite of a <a href="https://www.pikpng.com/pngl/m/494-4945371_master-ball-sprite-png-png-download-pixel-art.png">ball</a>
