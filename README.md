@@ -13,7 +13,7 @@ A small project to learn how to generate and use random numbers and get items fr
 * Screenresolution: 960 x 600
 
 ### Visuals:
-<a href="https://3ahmnm-htlsbg.github.io/home-WebGL-movingBall-cs-gruw/">WebGL Build for moving ball</a>
+
 
 ### Third party material: 
 * Sprite of a <a href="https://www.pikpng.com/pngl/m/494-4945371_master-ball-sprite-png-png-download-pixel-art.png">ball</a>
